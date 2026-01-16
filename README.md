@@ -4,7 +4,7 @@ Business Intelligence & Data Analyst con enfoque en **Retail, Finanzas y Operaci
 Transformo datos en **insights accionables** para apoyar la toma de decisiones estratégicas.
 
 <p align="center">
-  <img src="assets/banner.png" alt="Williams Aguilera - Business Intelligence & Data Analyst">
+  <img src="banner.png/banner.png" alt="Williams Aguilera - Business Intelligence & Data Analyst">
 </p>
 
 
