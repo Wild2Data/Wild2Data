@@ -3,6 +3,13 @@
 Business Intelligence & Data Analyst con enfoque en **Retail, Finanzas y Operaciones**.  
 Transformo datos en **insights accionables** para apoyar la toma de decisiones estratégicas.
 
+<p align="center">
+  <img 
+    src="https://github.com/Wild2Data/Wild2Data/blob/main/banner.png"
+    alt="Williams Aguilera - Business Intelligence & Data Analyst"
+  />
+</p>
+
 ### 🧠 Qué hago
 - Análisis de datos orientado a negocio
 - Modelado de datos y métricas (KPIs)
