@@ -3,15 +3,6 @@
 Business Intelligence & Data Analyst con enfoque en **Retail, Finanzas y Operaciones**.  
 Transformo datos en **insights accionables** para apoyar la toma de decisiones estratégicas.
 
-<p align="center">
-  <img 
-    src="assets/banner.png" 
-    alt="Williams Aguilera - Business Intelligence & Data Analyst"
-    style="width:100%; max-width:1280px; border-radius:12px;"
-  />
-</p>
-
-
 ### 🧠 Qué hago
 - Análisis de datos orientado a negocio
 - Modelado de datos y métricas (KPIs)
