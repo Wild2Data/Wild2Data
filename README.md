@@ -5,7 +5,7 @@ Transformo datos en **insights accionables** para apoyar la toma de decisiones c
 
 <p align="center">
   <img 
-    src="https://raw.githubusercontent.com/Wild2Data/Wild2Data/main/assets/banner.png"
+    src="https://github.com/Wild2Data/Wild2Data/blob/main/banner.png"
     alt="Williams Aguilera - Business Intelligence & Data Analyst"
   />
 </p>
