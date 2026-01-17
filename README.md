@@ -74,7 +74,8 @@ Evaluación económica y de mercado de clubes y fichajes.
 
 ### 📫 Contacto
 - 💼 LinkedIn: https://www.linkedin.com/in/williams-alberto-aguilera-león-05128a3a3  
-- 📧 Email: wild2data@hotmail.com  
+- 📧 Email: wild2data@hotmail.com
+- 📊 Portafolio: https://www.novypro.com/profile_about/1767675893537x292442675855720600
 
 Gracias por visitar mi perfil 🙌  
 Siempre abierto a colaborar, aprender y crecer en el mundo del análisis de datos.
