@@ -62,8 +62,8 @@ Evaluación económica y de mercado de clubes y fichajes.
 ---
 
 ### 🎯 Roles de interés
-- Data Analyst Jr  
-- Business Intelligence Analyst Jr  
+- Data Analyst  
+- Business Intelligence Analyst 
 - Analista de Operaciones  
 - Analista Corporativo  
 
